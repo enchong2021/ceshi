@@ -1,7 +1,7 @@
 {
   "directlink": [
     {
-      "name": "百度云",
+      "name": "百度云2",
       "url": "http://api.dbyunzy.com/api.php/provide/vod/from/dbm3u8/?ac=list",
       "gw": "http://help.apibdzy.com/",
       "tag": "推荐采集",
